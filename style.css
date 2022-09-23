@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.content{
+    height: 1100px;
+    position: relative;
+    box-sizing: border-box;
+}
+.img{
+    width: 100%;
+}
+.number{
+    position: absolute;
+    font-size: 600px;
+    font-family: inter;
+    opacity: 0.5;
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+}
